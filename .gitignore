@@ -1,0 +1,6 @@
+.idea
+
+BPMNConstructorAPI/bin
+BPMNConstructorAPI/obj
+
+BPMNConstructorAPI/appsettings.Development.json
